@@ -1,0 +1,20 @@
+ Public Url to GitHub repository (not private)  https://github.com/manarsayed123/UdaPeople-App-main
+****************************
+Public URL for your S3 Bucket
+(https://s3.console.aws.amazon.com/s3/buckets/udapeople-f5620d6?region=us-east-1&tab=properties)
+**********************
+front-end url 
+(http://udapeople-f5620d6.s3-website-us-east-1.amazonaws.com/#/employees)
+***********************
+backend url
+(http://52.45.241.200:3030/api/status)
+***********************
+cloudfront url 
+(https://dtz8g9f3o08xo.cloudfront.net/#/employees)
+***********************
+endpoint for database 
+(postgres.c3f2dtoocwpy.us-east-1.rds.amazonaws.com)
+****************************
+url for promesues
+http://52.86.164.53:9090/targets?search=
+*****************************
